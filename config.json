@@ -1,0 +1,16 @@
+{    
+    "database": {
+        "host": "192.168.233.156",
+        "port": 5432,
+        "dbname": "django_ck",
+        "user": "postgres",
+        "password": "Passw0rd"
+    },
+    "server_backend": {
+        "host": "0.0.0.0",
+        "port": 8080,
+        "debug": true
+    },
+    "redis_pass": "Red1s-Passw0rd",
+    "admin_email": "поменяйте@переменные.в.конфиге"
+}
